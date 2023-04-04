@@ -1,4 +1,4 @@
-# Hi, I'm Huy. 
+# Hi there!, I'm Huy. 
 
 
 ![cover](https://user-images.githubusercontent.com/77260252/229487423-c0a95f4b-834c-46d5-bd38-0a8c078ec44a.png)
