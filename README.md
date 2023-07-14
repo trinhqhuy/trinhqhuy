@@ -1,7 +1,8 @@
 # Hi there!, I'm Huy. 
 
 
-![cover](https://user-images.githubusercontent.com/77260252/229487423-c0a95f4b-834c-46d5-bd38-0a8c078ec44a.png)
+![Group 9 (2)](https://github.com/trinhqhuy/trinhqhuy/assets/77260252/fc85dc78-23b6-4d69-9e69-85fd4bddbb72)
+
 
 Let check out my portfolio: <a href="https://trinhqhuy.glitch.me/">here link</a>
 
